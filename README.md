@@ -8,7 +8,7 @@ I enjoy building practical applications that solve real-world problems and conti
 
 ### 🛠️ Technologies & Tools
 
-* **Languages:** JavaScript, Python, C#, TypeScript
+* **Languages:** JavaScript, Python, C#
 * **Web:** HTML, CSS, React, Node.js, Express.js
 * **Databases:** MongoDB, PostgreSQL, Supabase
 * **APIs:** REST APIs
