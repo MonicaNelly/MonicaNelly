@@ -10,7 +10,7 @@ I enjoy building practical applications that solve real-world problems and conti
 
 * **Languages:** JavaScript, Python, C#
 * **Web:** HTML, CSS, React, Node.js, Express.js
-* **Databases:** MongoDB, PostgreSQL, Supabase
+* **Databases: PostgreSQL
 * **APIs:** REST APIs
 * **Tools:** Git, GitHub, VS Code
 * **Cloud & IT:** Microsoft Azure, Microsoft Power Platform
