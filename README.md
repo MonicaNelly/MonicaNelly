@@ -6,7 +6,7 @@ I'm a software developer with 18 months of hands-on experience across software d
 
 I enjoy building practical applications that solve real-world problems and continuously strengthening my skills in software development, web technologies, APIs, and cloud computing.
 
-I'm currently completing my BSc in Information Technology at Richfield and developing projects that allow me to apply my knowledge to real-world software development challenges.
+I completed my Higher Certificate in Information Technology at Richfield and developing projects that allow me to apply my knowledge to real-world software development challenges.
 
 ### 🛠️ Technologies & Tools
 
