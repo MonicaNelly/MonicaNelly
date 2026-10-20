@@ -21,6 +21,7 @@ I'm currently completing my BSc in Information Technology at Richfield and devel
 
 - **[FinTrack](https://github.com/MonicaNelly/FinTrack)** — Personal finance and budget management application built with Node.js and Express.js.
 - **[BookEase](https://github.com/MonicaNelly/BookEase)** — Service booking and management application using C# and ASP.NET Core.
+- - SmartSteps — Educational application developed using TypeScript.
 - **Service Desk** — IT service management application developed to demonstrate practical IT and software development skills.
 - **[Developer Portfolio](https://github.com/MonicaNelly/Portfolio)** — Personal website showcasing my projects, technical skills, education, and experience.
 
