@@ -10,7 +10,7 @@ I completed my Higher Certificate in Information Technology at Richfield and dev
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, C#, C++
+- **Languages:** JavaScript, Python, C#.
 - **Web Development:** HTML, CSS, React, Node.js, Express.js
 - **Databases:** PostgreSQL, SQL
 - **APIs:** REST APIs, Postman
