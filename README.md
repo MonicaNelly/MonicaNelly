@@ -29,7 +29,7 @@ I completed my Higher Certificate in Information Technology at Richfield and dev
 
 - Developing and improving practical software projects.
 - Learning API development and backend programming.
-- Strengthening my skills in JavaScript, Node.js, C#, and ASP.NET Core.
+- Strengthening my skills in JavaScript, Node.js, C#,Python and ASP.NET Core.
 - Expanding my knowledge of cloud computing and cybersecurity.
 - Building a strong portfolio for software development opportunities.
 
